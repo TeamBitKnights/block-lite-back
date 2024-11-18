@@ -15,7 +15,7 @@
 - 이 저장소를 Git 클론하세요.
 
 ```bash
-git clone https://github.com/KAPUIST/block-lite-back.git
+https://github.com/TeamOliveCode/block-lite-back.git
 ```
 
 - MySQL 데이터베이스 설정을 업데이트하기 위해 `.env` 파일을 생성하세요.
