@@ -10,7 +10,7 @@
 
 - 크롤링 서버를 아직 구축하지 않았다면, 아래 링크를 먼저 따라 설정을 완료하세요.
 
-  - <https://github.com/KAPUIST/block-lite-crawler>
+  - <https://github.com/TeamOliveCode/block-lite-crawler>
 
 - 이 저장소를 Git 클론하세요.
 
